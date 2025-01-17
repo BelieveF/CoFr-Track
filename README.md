@@ -15,5 +15,5 @@ Conflict-Free Decoder Learning with Tucker Bilinear Fusion for Transformer-based
 |:----------:|:-----------:|:--------:|:--------:|:--------:|:---------:|:---------:|:---------:|-----------|
 | CoFr-Track  | Refer-KITTI |  49.56   |  37.95   |  64.86   |   50.83   |   58.53   |   70.44   | 86.75     |
 
-## Main Results
+## Getting Started
 code comming soon
