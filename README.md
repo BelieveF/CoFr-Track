@@ -14,7 +14,6 @@ Benefiting from the flexibility and generality of natural-language-guided vision
 
 ### Ref-KITTI
 
-| **Method** | **Dataset** | **HOTA** | **DetA** | **AssA** | **DetRe** | **DetPr** | **AssRe** | **AssRe** |                                           
-**URL**                                           |
+| **Method** | **Dataset** | **HOTA** | **DetA** | **AssA** | **DetRe** | **DetPr** | **AssRe** | **AssRe** |                                                      
 |:----------:|:-----------:|:--------:|:--------:|:--------:|:---------:|:---------:|:---------:|-----------|
 | CoFr-Track  | Refer-KITTI |  49.56   |  37.95   |  64.86   |   50.83   |   58.53   |   70.44   | 86.75     |
